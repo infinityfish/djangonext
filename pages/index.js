@@ -16,8 +16,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Combining the best of frontend and backend technologies to quickly
-          bootstrap your next big thing. Get started by editing{' '}
+          Combining the best of nextjs and django rest framework technologies to
+          quickly bootstrap your next big thing. Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
